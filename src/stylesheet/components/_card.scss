@@ -1,0 +1,32 @@
+.card-container {
+    width: 100%;
+    max-width: 300px;
+    background-color: $white;
+    padding: 20px;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50% );
+    border-radius: 20px;
+    .card-img {
+        img {
+            width: 100%;
+            border-radius: 10px;
+        }
+    }
+    .card-body {
+        h1, p {
+            text-align: center;
+        }
+        h1 {
+            color: $dark-blue;
+            font-size: 1.6rem;
+        }
+        p {
+            color: $grayish-blue;
+            font-size: 15px;
+        }
+    }
+}

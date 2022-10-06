@@ -1,0 +1,15 @@
+@import "./base/colors";
+@import "./base/font";
+@import "./components/card";
+
+body {
+    background-color: $light-gray;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    font-size: $font-size;
+    font-family: $font-family;
+    min-width: 375px;
+}
