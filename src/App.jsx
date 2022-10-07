@@ -3,9 +3,7 @@ import './stylesheet/style.scss'
 
 function App() {
   return (
-    <div className="App">
-      <Card />
-    </div>
+    <Card />
   )
 }
 
