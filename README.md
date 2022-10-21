@@ -9,7 +9,7 @@ Esta es una solución al desafío [QR code component challenge on Frontend Mento
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
   
 
